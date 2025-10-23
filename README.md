@@ -27,4 +27,3 @@ Vite is configured to proxy `/api` to `http://localhost:8000`, so API calls will
 
 ## Deployment
 Use Docker + docker-compose or containerize both services. Ensure static/media are persisted for the backend.
-# Market-tracker-dashboard-
